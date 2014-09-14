@@ -1,0 +1,1779 @@
+['/wiki/Portal:Scripts/Season_One']
+*****
+http://southpark.wikia.com/wiki/Season_One
+****
+******
+http://southpark.wikia.com/wiki/Cartman_Gets_an_Anal_Probe/Script
+******
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cartman_Gets_an_Anal_Probe" title="Cartman Gets an Anal Probe">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cartman_Gets_an_Anal_Probe/Trivia" title="Cartman Gets an Anal Probe/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cartman_Gets_an_Anal_Probe/Images" title="Cartman Gets an Anal Probe/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a class="external text" href="http://www.southparkstudios.com/full-episodes/s01e01-Cartman-Gets-an-Anal-Probe" rel="nofollow">Watch Episode</a></div>
+</div>
+<p><br/>
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Cartman_Gets_an_Anal_Probe" title="Cartman Gets an Anal Probe">Cartman Gets an Anal Probe</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_One" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Ike Broflovski
+</li><li> Chef
+</li><li> Ms. Crabtree
+</li><li> Farmer Carl
+</li><li> Officer Barbrady
+</li><li> Mr. Garrison
+</li><li> Mr. Hat
+</li><li> Pip Pirrup
+</li><li> Train Conductor
+</li><li> A Kid
+</li><li> Jason
+</li><li> Wendy Testaburger
+</li><li> Liane Cartman
+</li><li> News Reporter
+</li><li> Mr. Kitty
+</li><li> Carl the Alien
+</li><li> Blonde woman
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table border="1" class="wikitable" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[At the bus stop]</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><i>School day, school day, teacher's golden ru...</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ah, damn it! My little brother's trying to follow me to school again.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Zeeponanner.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ike, you can't come to school with me. <i>[Ike chortles]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, go home you little dildo.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, don't call my brother a dildo!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's a dildo?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, I don't know... <i>[faces Cartman and points at him]</i> and I'll bet Cartman doesn't know either!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I know what it means!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, what?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not telling you.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's a dildo, Kenny?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(It's a giant stick that goes inside the mom's vagina) <i>[the others laugh]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He-yeah, that's what Kyle's little brother is all right! <i>[Kyle swings Ike by his feet, knocking Cartman down]</i> Ow! <i>[Ike laughs]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, that kicks ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, check this one out. Ready, Ike? Kick the baby!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Don't kick the baby.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kick the baby. <i>[he kicks Ike, and Ike mows down four mailboxes. Cartman yawns.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa, Cartman! Looks like you didn't get much sleep last night.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's 'cause I was having these... bogus nightmares.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Really? What about?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I dreamt that I was lying in my bed... <i>[the dream sequence begins]</i> in the dark, when all of a sudden this bright blue light filled the room. <i>[through his window, one can see a spaceship land and its light stream in]</i> Then slowly my bedroom door begin to open, <i>[an alien peeks inside]</i> and the next thing I remember, I was being drug through a hallway. <i>["Weeaak!"]</i> Then I was lying on a table, <i>[face down, and aliens lower his pajamas]</i> and these scary hands wanted to operate on me. And they had big heads and big black eyes...
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude! Visitors!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Totally!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That wasn't a dream Cartman, those were visitors!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, it was just a dream, my mom said so.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Visitors are real.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, they abduct people and they mutilate cows.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, shut up guys! You're just trying to make me scared. And it's not working.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[drives up and gets out of the car]</i> Hello there, children.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Hey, Chef.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's gonna be for lunch today, Chef?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, today it's Salisbury steak with buttered noodles and a choice of green bean casserole or vegetable medley.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kick ass.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Say, did any of you children see the alien space ship last night?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[surprised]</i> Huh?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, fat boy saw it!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Eh, no, that, that was just a dream. And I'm not fat, I'm big boned!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, was it the ones with the big long heads and the black eyes?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They took him on their ship.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh! Did they give you an anal probe?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What's an anal probe?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That's when they put a big metal hooba-jube up yo' butt.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa! They gave you an anal probe Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No! Uh-I mean, eh, why would they do that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, they did, huh? Aliens stuck stuff up your ass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Eneh probe
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up, dildo!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, I gotta get to the cafeteria. You children watch that fat boy now. He could be under alien control. <i>[Chef walks back to his car, there is a picture of an alien on his shirt. Cartman goes catatonic as Chef drives off.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We told you they were real Cartman. Sorry to hear about your ass.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>God damn it, they didn't do anything to my ass! It was just a dream.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[They start to file onto the bus.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why are you walkin' so funny Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[waddles by]</i> Oh foonuh bebe.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, Ike, go home.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Eeeeee!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This is it. This one's for the game.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Purplor.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kick the baby! <i>[He kicks Ike, who flies through the first window of the school bus and crashes out through the other side.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On The Bus]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Good morning, Miss Crabtree.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Sit down! We're runnin' late! <i>[The bus pulls away, leaving Ike behind at the bus stop. Kyle is kneeling on the seat looking back at him.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damn it, he's still there.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, don't worry about him.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, dude, if something happens to him, my parents are gonna blame me.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Sit down back there! Arrrggghhh!!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, whatever, ya fat bitch.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>What did you say?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I said I have a bad itch.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Oh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[gasps]</i> Oh, my God! <i>[two aliens are holding Ike between them]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[turning to see]</i> Visitors!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh nooo!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ike! <i>[runs to the front of the bus]</i> Stop the bus! Miss Crabtree, you have to stop this bus!
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Do you want an office referral?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Ms. Crabtree
+</th><td>Then sit down!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But I...
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Arrgghhh!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Arrghh!
+</td></tr>
+<tr>
+<th>Kyle, Ms. Crabtree:
+</th><td>Arrrggghhh! <i>[Kyle runs back to his seat. Ms. Crabtree has the last word]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, are those the same visitors you saw?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up you guys, it's not working.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We have to do something!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, we can't do anything for now, that fat bitch won't let us.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>What did you say?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, I said that rabbits eat lettuce.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>Oh. Well, yes, they certainly do. <i>[she makes a hard right, flinging kids onto the left side of the bus.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What am I going to do? My little brother's been abducted by aliens. <i>[Stan farts]</i> You farted. <i>[They laugh]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Somebody's baking brownies. <i>[Behind the bus, a space craft rises into the sky, then zooms away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Farmer's grazing fields with a mutilated cow]</i>
+</td></tr>
+<tr>
+<th>Farmer Carl:
+</th><td>This is the third cow this month. At this rate all of my cattle are gonna die before the winter's through. <i>[The cows moo questioningly]</i>
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>This is nothing out of the unusual. Cows turn themselves inside out all the time. <i>[The cows shake their heads]</i>
+</td></tr>
+<tr>
+<th>Farmer Carl:
+</th><td>People's been saying they've been seeing UFO's around.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>UFO's? <i>[laughs]</i>
+</td></tr>
+<tr>
+<th>Farmer Carl:
+</th><td>Yeah, and black army CIA helicopters and trucks.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>That is the silliest thing I've ever heard. <i>[Helicopters fly by above him]</i>
+</td></tr>
+<tr>
+<th>Farmer Carl:
+</th><td>What was that?
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>That, that was a pigeon.
+</td></tr>
+<tr>
+<th>Farmer Carl:
+</th><td>What am I supposed to do, Barbrady? Just stand here and watch my cattle get mutilated one by one? <i>[the cows notice something and raise their heads. One alien waves a piece of hay; another one whistles. The cows start running away from them.]</i> Hey! My cattle! <i>["Cattle Ranch" sign falls down.]</i> You see? There is somethin' funny goin' on!
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>There's nothing funny going on. I'll get those cows back.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mr. Garrison's class]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>And now children, our friend, Mr. Hat, is going to tell us about Christopher Columbus.
+</td></tr>
+<tr>
+<th>Mr. Hat:
+</th><td>That's right, Mr. Garrison. Christopher Columbus discovered America and was the Indians' best friend. He helped the Indians win their war against Fredrick Douglass and a freed the Hebrews from Napoleon and discovered France. And then in 1492...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[whispering]</i> Oh, man. I can't just sit here, I have to help my stupid brother, or I'll come home without him and my dad will start yelling, "Where's your brother, Kyle?" "You weren't looking out for your little brother, Kyle?"
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[whispering]</i> Okay, okay, let's ditch school and go find him.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[voice rising to an audible level]</i> "You know he can't think on his own, Kyle!" "Brush and floss, Kyle!" "Where has that finger been, Kyle?"
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Is there a problem, boys?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes, Mr. Garrison, I have to go now.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Oh, really, Kyle? What is it this time? Another prostate tumor?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, my little brother's been abducted by aliens. <i>[silence]</i> It's true! Ask Cartman, they gave him an anal probe.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[embarrassed]</i> Heh, heh, that's a, that's, that's a little joke. Heh, heh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[walks up to Mr. Garrison's desk]</i> Mr. Garrison, seriously, I have to go. Can I please be excused from class?
+</td></tr>
+<tr>
+<th>Mr. Garrison
+</th><td>I don't know, Kyle. Did you ask Mr. Hat?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't want to ask Mr. Hat, I'm asking you!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Oh I think you should ask Mr. Hat.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mr. Hat, may I please be excused from class?
+</td></tr>
+<tr>
+<th>Mr. Hat:
+</th><td>Well, Kyle, no!! You hear me?! You go to hell! You go to hell and you die!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Hmm, guess you'll have to take your seat, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damn it!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hah, hah. Mr. Hat yelled at you. <i>[farts fire. Poor Pip is stunned]</i> Ow! My ass! <i>[The class gasps]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[farts fire]</i> Uh... Ow! My ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, he's farting fire!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It's the alien anal probe. It's shooting fire from Cartman's rectum!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, that was just a dream.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Eric, do you need to sit in the corner until your flaming gas is under control?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Mr. Garrison, I'm fine. <i>[Cartman farts fire again, setting Pip aflame. Pip runs around the room on fire.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><i><b>[End of act one.]</b></i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Train station. Cows flock in from all around and stand in line, waiting to board the train out of town]</i>
+</td></tr>
+<tr>
+<th>Train Conductor:
+</th><td>Hey, you cows can't get on this train! This is a people train. You cows have no business on a people train, all right? 'Cause you're cows. <i>[The cows are all staring at the conductor]</i> No, no, no. Don't try any of that cow hypnosis on me, all right? 'Cause it's not gonna work.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td><i>[drives by with his lights flashing]</i> Hold it right there, cows! <i>[Cows split up and run off mooing]</i> Come back here! Now then! <i>[pursues them]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cafeteria]</i>
+</td></tr>
+<tr>
+<th>Kid:
+</th><td>So then I had...
+</td></tr>
+<tr>
+<th>Jason:
+</th><td>Ya, seriously, killer.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[farts fire]</i> Oh!! Whoa, I sure am hungry.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>How can you eat when you're farting fire?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up, dude, you're being totally immature.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, look, there's Wendy Testaburger.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[gasps]</i> Where? <i>[He finds himself looking right at her. An epiphany plays while hearts dance around Stan's head. Stan smiles, and it soon goes from ear to ear]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[singing] Stan wants to ki-iss Wendy Testabur-ger</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Shut up, fat ass! I don't even like her!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not fat. And you obviously like her because you throw up every time she talks to you.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I do not!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hi, guys.
+</td></tr>
+<tr>
+<th>Kyle, Cartman:
+</th><td>Hi, Wendy.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Here, Stan. This is for you. <i>[hands Stan a note]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Bleech!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Eww! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Kyle, Cartman:
+</th><td><i>[their eyes follow her out]</i> Bye, Wendy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, what does the note say?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[glances at it]</i> Holy crap! It says she wants to meet me at Stark's Pond after school. <i>[a look of wonder comes over his face]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa! Maybe you can kiss her.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Or slip her the tongue.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Or look at the cat on her feet, then touch her.)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[that got his attention]</i> What? How do you know she has a cat? <i>[Silence, Kenny waits to see if the other guys got the message, then laughs. The rest follow, realizing what Kenny meant]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on you guys, we need to figure out how to get out of school so we can get my little brother back.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The cafeteria kitchen. A cook stands behind a food counter, ready to serve up cafeteria food. The boys enter]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Hello there, children.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Hey, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>How are you doing?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Bad.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Why bad?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Chef, have you ever had something happen to you, but nobody believed you?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, children, children, that's a problem we've all had to face at some time or another. Here, let me sing you a little song. It might clear things up.
+<div class="poem">
+<p><i>I'm gonna make love to ya woman<br/>
+Gonna lay ya down by the fire<br/>
+And caress your womanly body<br/>
+Make ya moan and perspire<br/>
+Gonna--</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>--get those juices flowin'--</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>--we're makin' love gravy--</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>--love gravy, lovelovelovelovelove gravih!</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef!!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>Love luh--</i> Huh? <i>[Silence. Kenny nods towards Kyle]</i> Do you feel better?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, come on children, what could be so bad? It's Salisbury steak day.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Visitors took Kyle's baby brother.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What?! <i>[tosses a food tray aside and runs to the other side of the counter]</i> What the hell do you think you're doing in school eatin' Salisbury steak?! Go find him, damn it!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mr. Garrison won't let us out of school. He thinks we're making it up.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You are making it up. <i>[farts fire. The anal probe pops out, moves around and puts its metal arms on its hip, looking annoyed at being exposed]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa! <i>[The probe goes back into Cartman's ass]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That was cool!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>It's uh some kind of symbiotic, metamorphosis device. <i>[Cartman turns about so Chef can check out the probe]</i> This could mean the visitors want to communicate with us.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turning to face Chef, testily]</i> Oh, I see. Now you're going to join in on the little joke huh?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>It's no joke, children, this is big!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Please, Chef, if I don't get out of school and get my little brother back from the aliens, my parents are gonna disown me.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Uuh, hold on now, hold on now. <i>[To himself]</i> Uhyouyouyou gotta help the children.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, you guys sure are going a long ways to try and scare me. I want my Salisbury steak!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[pulling on the fire drill]</i> Fire drill! Fire drill! Everybody out! <i>[to the boys]</i> Okay children, this is your chance!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Killer! Thanks, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Mahahahahan oh man, first contact with the alien visitors. I've got to get myself ready.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The boys' neighborhood]</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><i>We got out of school<br/>No more school today<br/>We got out of school...</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[interrupting the song with a fiery fart]</i> Oh!! You guys, my ass, seriously..!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, Cartman, you can stop farting fire now.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I would if I could, you son of a bitch!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay, so how do we get my little brother back?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh—Would you stop going on about your little brother? I know it was just a dream, I know I didn't have an anal probe, and I know that I'm not under alien control! <i>[a radio wave strikes Cartman and he gets big blushy cheeks and starts to sing.]</i>
+<div class="poem">
+<p><i>I love to singa<br/>
+About the moona and June-a and the springa<br/>
+I love to singa<br/>
+About a sky of blue-a or a tea for two-a...</i>
+</p>
+</div>
+<p><i>[A second radio wave reverts him to normal and all is quiet. Dogs bark in the background]</i>
+</p>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What the hell was that?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He is under alien control. That thing in his butt is linked up to the visitors!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ah, son of a bitch!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><i><b>[End of act two.]</b></i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, shut up. I'm not under alien control.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[into Cartman's ear. His voice echoes]</i> Hey!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>If you visitors can hear me- <i>[the voice echoes in Cartman's head]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td> -bring me back my little brother, God damnit!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ow! <i>[faces Kyle]</i> That hurts, you buttlicker!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[notices a spaceship hovering overhead]</i> Kyle, look! It's them.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Give me back my brother! <i>[throws a rock at the spaceship. It fires back with a flash of light, hitting Kenny and knocking him into the road.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh my God! They've killed Kenny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You bastards! Come back here! Coomme baack! <i>[the spaceship leaves]</i> Damn it, we were so close!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey look, <i>[Kenny gets up]</i> I think Kenny's okay.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Don't worry, I'm alright. Argh!) <i>[fleeing cows run over Kenny]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Owww.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[gets up again]</i> (Nope, I'm all fine. Agh!) <i>[Officer Barbrady mows him down. Kenny ends up along the curb, lifeless. The boys approach]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, poor Kenny.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Now do you believe us, Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, they killed Kenny!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He's not dead.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, Kenny is dead! <i>[picks up a stick and hits Kenny's bloody body]</i> See?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up, you guys.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He's dead, Cartman! <i>[pulls Kenny's head off his body]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>God damn it, I didn't have an anal probe! <i>[walks off]</i> Screw you guys, I'm goin' home.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go on and go home, you fat chicken!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[off screen]</i> Dildo!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You're all I have left, Stan.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sorry, dude. I gotta go meet Wendy Testaburger.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You can't! Poor Ike must be so scared, up there all alone. You gotta help me, dude! <i>[Rats feast upon Kenny's body.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, like Chef says, I've gotta get a piece of lovin' while the gettin's hot. <i>[hurries away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rats drag Kenny's head off]</i> Rats.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Hello, Eric.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hi, Mom.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>How are you doing?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I'm pissed off!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Here, I made you powdered donut pancake surprise.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I don't want powdered donut pancake surprise. All the kids at school call me fat!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>You're not fat, you're big boned.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's what I said.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>You can have an eensy weensy bit, can't you?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Just a weensy geensy woo woo?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Mom, leave me alone! <i>[walks past her]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>How about a nice chocolate chicken pot pie, then?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[stops in his tracks]</i> What? Well, that does sound pretty good. <i>[returns to sit on the sofa while his mom goes off to get the pie]</i> Uh, Mom?
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Yes, hon?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>If anybody calls or comes over, I'm not here, okay?
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Sure, hon. You want some Cheesy Poofs, too?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, I want Cheesy Poofs.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stark's Pond. Kyle decided to join Stan]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, it looks like she's not going to show up, Stan. Let's go look for the visitors now.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But her note said she'd be here. <i>[Wendy appears out of nowhere]</i>
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hi, Stan.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Bleech!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Eww!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You can't talk to Stan, Wendy. He throws up when you do.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>But why, Stan?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[tries to hold it in, but]</i> Bleech!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Eww!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Look, can you guys just get down to business so we can go find my little brother?
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td><i>[turns to Kyle]</i> Huh?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Just make sweet love down by the fire.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>What happened to your little brother?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house. Cartman is on the sofa watching TV]</i>
+</td></tr>
+<tr>
+<th>News Reporter:
+</th><td>As the reports of UFO sightings increase, more mysterious crop circle patterns are appearing in fields all around South Park. These crop circles, when viewed from above, form strange patterns. <i>[a plane circles around a field with odd patterns on it, and a cameraman pans out to reveal the outline of Cartman]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, that kind of looks like... Tom Selleck.
+</td></tr>
+<tr>
+<th>News Reporter:
+</th><td>Could it be that aliens are trying to make contact with us, here on Earth?
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[notices his cat, Mr. Kitty is eyeing his pot pie]</i> No, Kitty, this is mah pot pie.
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, you bad kitt--!
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, it's mah pot pie! <i>[Kitty hisses]</i> Mom! Kitty's being a dildo!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td><i>[peeks in suggestively]</i> Well, then. I know a certain kitty-kitty who's sleeping with Mommy tonight.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[confused]</i> What?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stark's Pond. Kyle is explaining what happened to his little brother]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...and now I have to go home without him and my parents are going to have me killed.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Well, why don't you go get the fat kid?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Well, if the fat kid has something implanted in his ass, maybe the visitors are using him as part of their plan. You should use the fat kid as bait to bring them back.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey. You're right, Wendy. Come on, Stan, we have to go get Cartman. <i>[moves out]</i>
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Come on, Stan. <i>[walks past him, following Kyle]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Bleech!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Eww! <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, wait. When do I get to make sweet love? <i>[A bird flies into his puke and starts waddling around in it.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's House, a short time later]</i>
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, you can't have any!
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, this is mah pot pie! Bad Kitty--! <i>[Cartman farts fire, setting the cat ablaze]</i> Eh, 'scuse me, Kitty.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td><i>[enters the room with Kyle, Stan and Wendy]</i> Eric, look who's here.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, weak mom.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on Eric, we can go play at the bus stop.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I can't, my mom said...
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>That's okay, Eric, I think you need to go spend time with your little friends.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[quietly]</i> But mom, I don't want to spend time with my little friends--
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Don't be difficult, Eric! Now, you go out and play in the fun snow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>God damn it! <i>[Mr. Kitty then runs by in flames.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Forest at night. Cartman's right foot is tied to a tree]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, I have to get home.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't be such a fraidy cat, Cartman. This rope will make sure they can't take you on board again.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[kicks his foot to try to get loose]</i> Oh, man, this sucks.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How come the visitors aren't coming for him?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I think we have to signal them somehow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[farts fire]</i> Ow!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hey, he's like Rudolph.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah! All you have to do is fart some more, Cartman, and the visitors are sure to come!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Really? Uh, I don't think I have to fart anymore tonight.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sure you do!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Come on Cartman, fart!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I don't wanna.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He can't hold it in forever.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Fart, damn you!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay, that's does it! Now listen! Why is it that everything today has involved things either going in or coming out of my ass?! <i>[Farts. An anal probe comes out of his butt and expands]</i> I'm sick of it! It's completely immature.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, it's happening again. <i>[the probe is now a large satellite dish]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa, look at that.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Now, do you believe this, Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys can't scare me! I know you're making it all up.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, there's a 80-foot satellite dish sticking out of your ass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Sure, you guys, what-ever. <i>[the dish sends a radio signal out to space]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Chef's backyard. He's sitting in a lawn chair with a can of ZOOP in his hand. An Igloo cooler is next to him]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, boy. The aliens are going to make first contact. Hey, down here, we are ready for your wisdom! <i>[looks at his watch]</i> And you've only got 20 minutes before <i>Sanford and Son</i> is on.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Forest]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, I am seriously getting pissed off right now! I know there is no such things as aliens! <i>[Three small ships descend, followed by a mothership.]</i> Oh, God damn it!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i>[driving by, he stops]</i> What the? I tell you, there's some crazy stuff going on in this town.
+</td></tr>
+<tr>
+<th>Mr. Hat:
+</th><td>You can say that again, Mr. Garrison.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come down here, you stinking aliens! <i>[Three aliens appear]</i> Uh, uh...
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Go on, Kyle, ask 'em for your little brother back.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Vi, Visitors, this morning you took my little brother, Ike. He's the little freckled kid that looks like a football. At first, I was happy you took him away. But I've learned something today. That having a little brother... is a pretty special thing.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ah, heck, Mr. Visitors, I'm just a kid all alone in this crazy world, but if you could find it in your hearts or whatever you have, to give my brother back to me, it sure would make my life brighter again.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That was beautiful, dude.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Did it work?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, they're leaving.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, you scrawny-eyed shithead, what the fuck is wrong with you?! You must be some kind of fucking asshole to be able to ignore a crying child!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa, dude!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You know what you assholes like! You like to **** and sh** and **** and **** and **** and ****!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey Wendy, what's a ****? <i>[she shrugs]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[The spaceship door opens]</i> Help me doy tair.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ike, jump down, now! For the love of God, Ike, jump!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Don't hurt me. <i>[a herd of cows runs away from the ship, but a trio of aliens stops them in their tracks. The cows moo and quiver with fear until the middle alien raises its hand and addresses them]</i>
+</td></tr>
+<tr>
+<th>Alien:
+</th><td>Moo... Moo...Moo...Moo... (Greetings, cows of Earth. We come in peace.)
+</td></tr>
+<tr>
+<th>Cows:
+</th><td>Moo?? (Really??)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, Ike! I promise I'll be nice to you from now on!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Don't kick the baby.
+</td></tr>
+<tr>
+<th>Alien:
+</th><td>Moo moo, moo. Moo moo, moo. Moo. (We have experimented with all the beings of Earth, and we have learned that you are the most intelligent and wise.)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What the hell are they talking about?
+</td></tr>
+<tr>
+<th>Cow:
+</th><td>Moo moo? (Why did you turn some of us inside out?)
+</td></tr>
+<tr>
+<th>Alien:
+</th><td>Moo moo, moo. Moo. (Oh, that was Carl's fault. He's new.)
+</td></tr>
+<tr>
+<th>Alien Carl:
+</th><td>Moo...moo...moo. (Yeah, sorry about that. My bad!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ike!
+</td></tr>
+<tr>
+<th>Alien:
+</th><td>Moo moo. Moo moo. Moo. (Take this device. It is a gift from us.)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The cows look at each other and moo in agreement.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ike! Do your impersonation of David Caruso's career!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>It's my turn! <i>[dives into the snow. The satellite goes back into Cartman's butt.]</i>
+</td></tr>
+<tr>
+<th>Aliens:
+</th><td>Moo moo. Moo moo. (Farewell cows, peace be with you!)
+</td></tr>
+<tr>
+<th>
+</th><td><i>[The aliens disappear. The spaceship pulls Cartman up but the rope keeps him grounded.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, get me down from here! <i>[farts fire, burns the rope. The tractor beam takes him into the ship and the spaceship flies away.]</i> Ow! Help! Sons o' bitches! Dildos!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Phew, I'm sure glad that's over with.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. Boy, am I glad to see you, Ike.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Oh, he fly out of the sky.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Chef's backyard.]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Wait, where are you going, alien visitors? Come back!
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td><i>[arrives with a brunette]</i> Well, Chef, where's this amazing thing you were going to show us.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, it's in the bedroom, ladies. Come on in.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Forest]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, Ike, we can make it just in time for dinner. <i>[they leave]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Thanks for your help, Wendy.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Whatever, dude.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, I didn't throw up.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Cool! <i>[She's happy now. They both look at each other like they're going to kiss, and that music plays again. Wendy puckers up. Stan gets queasy]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Bleech! <i>[right on her face]</i>
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Eww!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sorry.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hey, look. A French fry.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cool.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>And what is that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I think it's part of a Cheesy Poof. <i>[Chef's song starts up and the camera pulls away.]</i>
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hey, what's that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's uummm... a hamburger from... that's from, like, two days ago.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Hey, what about that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't know what the hell that is...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><i><b>[End of act three.]</b></i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus Stop]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Gee, the bus'll be here any minute, and Cartman still isn't around.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeh, we're running out of friends.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I wonder what that thing was that the visitors gave the cows.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cows out on a pasture]</i>
+</td></tr>
+<tr>
+<th>Cows:
+</th><td>Mooo.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Ha ha cows! I've got you cornered. Let's see you get away now. <i>[One of the cows step on the plate on the alien device. A bolt of lightning strikes Officer Barbrady. His glasses fly off, and cheeks become rosy.]</i>
+<div class="poem">
+<p><i>I love to sing-a<br/>
+About the moon-a and the June-a and the Spring-a<br/>
+I love to sing-a<br/>
+About a sky of blue-a or a tea for two-a...</i>
+</p>
+</div>
+<p><i>[Cows begin hopping about gleefully]</i>
+</p>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus Stop. Cartman falls out of the sky, landing on his side next to Kyle and Stan.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Puh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, hey Cartman.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow Cartman, the visitors dropped you off just in time to go to school.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ah, man, I had this crazy nightmare last night.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Really, what about?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I was standing out in a field, and I had this huge satellite dish sticking out of my butt. And then there were... hundreds of cows and aliens, and then I went up on the ship and Scott Baio gave me pinkeye.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That wasn't a dream, Cartman. That really happened.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, right. Why don't I have pinkeye then?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, you do have pinkeye!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ahh, son of a bitch!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Cartman Gets an Anal Probe</b>.]</i>
+</td></tr></table>
+<h2><span class="mw-headline" id="Reference">Reference</span></h2>
+<p>"<a class="external text" href="http://www.spscriptorium.com/Season1/E101script.htm" rel="nofollow">Episode 101 - Cartman Gets An Anal Probe</a>".   spscriptorium.com (2004-07-18).
+</p><p><br style="clear: both;"/>
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+<tr>
+<td style="width: 10%;">  
+</td><td style="width: 80%;"> <span style="color:white; text-shadow:#222 0.1em 0.1em 0.1em;">101: "<a href="/wiki/Cartman_Gets_an_Anal_Probe" title="Cartman Gets an Anal Probe"><span style="color:white">Cartman Gets an Anal Probe</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a class="text" href="http://southpark.wikia.com/index.php?title=template:101&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;"> <b><span style="color:white">Story Elements</span></b> </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Eric_Cartman" title="Eric Cartman">Eric Cartman</a> • 
+<a href="/wiki/Kyle_Broflovski" title="Kyle Broflovski">Kyle Broflovski</a> • 
+<a href="/wiki/Stan_Marsh" title="Stan Marsh">Stan Marsh</a> •
+<a href="/wiki/Kenny_McCormick" title="Kenny McCormick">Kenny McCormick</a> •
+<a href="/wiki/Ike_Broflovski" title="Ike Broflovski">Ike Broflovski</a> •
+<a href="/wiki/Jerome_%22Chef%22_McElroy" title='Jerome "Chef" McElroy'>Jerome "Chef" McElroy</a> •
+<a class="mw-redirect" href="/wiki/Mr._Garrison" title="Mr. Garrison">Mr. Garrison</a> •
+<a href="/wiki/Visitors" title="Visitors">Visitors</a> •
+<a href="/wiki/Mr._Kitty" title="Mr. Kitty">Mr. Kitty</a> •
+<a href="/wiki/Anal_Probe" title="Anal Probe">Anal Probe</a> • 
+<a href="/wiki/South_Park_Elementary" title="South Park Elementary">South Park Elementary</a> •
+"<a href="/wiki/I%27m_Gonna_Make_Love_to_You_Woman" title="I'm Gonna Make Love to You Woman">I'm Gonna Make Love to You Woman</a>" •
+"<a href="/wiki/I_Love_to_Singa" title="I Love to Singa">I Love to Singa</a>" • 
+"<a href="/wiki/School_Days" title="School Days">School Days</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;"> <b><span style="color:white">Media</span></b> </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Cartman_Gets_an_Anal_Probe/Images" title="Cartman Gets an Anal Probe/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a class="external text" href="http://www.southparkstudios.com/full-episodes/s01e01-cartman-gets-an-anal-probe" rel="nofollow">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;"> <b><span style="color:white">Release</span></b> </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_First_Season" title="South Park: The Complete First Season">South Park: The Complete First Season</a>
+</p>
+</td></tr></table></div>
+<!-- 
+NewPP limit report
+Preprocessor node count: 263/300000
+Post‐expand include size: 6323/2097152 bytes
+Template argument size: 457/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key southpark:pcache:idhash:9616-0!*!0!!*!*!* -->
+<noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1410545103/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" rel="stylesheet"/></noscript><noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1410545103/common/extensions/wikia/TOCimprovements/TOCNoScript.css" rel="stylesheet"/></noscript></div>
